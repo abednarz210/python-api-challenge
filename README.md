@@ -1,4 +1,4 @@
-# Python Weather Api:  What's the Weather Like?
+# Python Weather API:  What's the Weather Like?
 
 
 
